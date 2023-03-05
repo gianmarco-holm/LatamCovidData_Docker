@@ -1,0 +1,7 @@
+services:
+  proyectcovid:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app
