@@ -1,4 +1,4 @@
-# Docker_PIP_EntornoVirtual_Python
+# Practicando Docker y Entornos virtuales
 Dockerizando mi anterior proyecto de análisis de un data set de COVID, además colocándolo en un ambiente virtual
 
 #Proyecto Graficos Covid
